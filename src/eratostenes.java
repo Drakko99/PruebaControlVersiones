@@ -5,7 +5,7 @@ el algoritmo es bastante simple, dado in vector de enteros empezando en 2, se ta
 */
 
 /*
-ESTO ES UN CAMBIO
+ESTE ES OTRO CAMBIO EN EL CODIGO
 */
 
 public class eratostenes {
