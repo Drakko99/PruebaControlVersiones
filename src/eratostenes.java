@@ -4,6 +4,10 @@ clase para generar todos los numeros primos desde 1 hasta un numero maximo espec
 el algoritmo es bastante simple, dado in vector de enteros empezando en 2, se tachan todos los multiplos de 2, a contiuacion se encuentra el siguiente entero no tachado y se tachan todos sus multiplos. el proceso se repite hasta que se pasa de la raiz cuadrada del valor maximo. todos los numeros que queden sintachar son numeros primos.
 */
 
+/*
+ESTO ES UN CAMBIO
+*/
+
 public class eratostenes {
     /**
      * generar numeros primos de 1 a max
